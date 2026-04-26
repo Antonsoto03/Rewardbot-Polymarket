@@ -1,0 +1,58 @@
+# =============================================================
+#  .gitignore — Reward Bot (Polymarket)
+#  Generado para proteger credenciales y datos privados antes
+#  de subir el proyecto a GitHub.
+# =============================================================
+
+# ---- CRÍTICO: secretos / credenciales ----
+clob_creds.json
+set_creds.cmd
+.env
+.env.*
+*.env
+secrets/
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ---- Datos de trading reales / privados ----
+bot_state.sqlite
+bot_state.sqlite-journal
+bot_state.sqlite-wal
+bot_state.sqlite-shm
+*.sqlite
+*.db
+
+# ---- Logs (contienen tu dirección de wallet en logs live) ----
+*.log
+run_live*.log
+run_overnight.log
+run_paper*.log
+run_bench*.log
+
+# ---- Snapshots de mercado (opcional, archivos pesados) ----
+ranking_snapshot_live.json
+
+# ---- Python ----
+.venv/
+venv/
+env/
+reward-bot/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- IDE / sistema ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Claude Code (config local) ----
+.claude/settings.local.json

@@ -1,0 +1,22 @@
+[
+  {
+    "market_id": "mkt_1",
+    "slug": "example-market-1",
+    "rewards": 1200,
+    "competition": 300,
+    "liquidity": 50000,
+    "best_bid": 0.48,
+    "best_ask": 0.52,
+    "tick_size": 0.001
+  },
+  {
+    "market_id": "mkt_2",
+    "slug": "example-market-2",
+    "rewards": 900,
+    "competition": 150,
+    "liquidity": 30000,
+    "best_bid": 0.44,
+    "best_ask": 0.47,
+    "tick_size": 0.001
+  }
+]

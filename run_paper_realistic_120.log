@@ -1,0 +1,599 @@
+2026-04-10 19:18:30,336 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:30,338 INFO Mode=paper Cycle 1: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=1200.00
+2026-04-10 19:18:30,338 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:30,339 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 buy price=0.2644 size=200.0000
+2026-04-10 19:18:30,339 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 sell price=0.2656 size=200.0000
+2026-04-10 19:18:30,340 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:30,340 INFO [DRY-RUN] place 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b buy price=0.1843 size=200.0000
+2026-04-10 19:18:30,340 INFO [DRY-RUN] place 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b sell price=0.1857 size=200.0000
+2026-04-10 19:18:30,597 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:30,598 INFO Mode=paper Cycle 2: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=350.00
+2026-04-10 19:18:30,598 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:30,598 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:30,598 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 buy price=0.6344 size=200.0000
+2026-04-10 19:18:30,598 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 sell price=0.6356 size=200.0000
+2026-04-10 19:18:30,863 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:30,863 INFO Mode=paper Cycle 3: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=250.00
+2026-04-10 19:18:30,863 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:30,864 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:30,864 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 buy price=0.6244 size=100.0000
+2026-04-10 19:18:30,864 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 sell price=0.6256 size=100.0000
+2026-04-10 19:18:31,115 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:31,115 INFO Mode=paper Cycle 4: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=200.00
+2026-04-10 19:18:31,115 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:31,116 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,116 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf buy price=0.6543 size=200.0000
+2026-04-10 19:18:31,116 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf sell price=0.6557 size=200.0000
+2026-04-10 19:18:31,359 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:31,359 INFO Mode=paper Cycle 5: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=200.00
+2026-04-10 19:18:31,359 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,359 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,360 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 buy price=0.3961 size=200.0000
+2026-04-10 19:18:31,360 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 sell price=0.3969 size=200.0000
+2026-04-10 19:18:31,621 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:31,622 INFO Mode=paper Cycle 6: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=170.00
+2026-04-10 19:18:31,622 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,622 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,623 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d buy price=0.2113 size=200.0000
+2026-04-10 19:18:31,623 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d sell price=0.2127 size=200.0000
+2026-04-10 19:18:31,884 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:31,885 INFO Mode=paper Cycle 7: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=120.00
+2026-04-10 19:18:31,885 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,885 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:31,885 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 buy price=0.1612 size=200.0000
+2026-04-10 19:18:31,885 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 sell price=0.1628 size=200.0000
+2026-04-10 19:18:32,132 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:32,132 INFO Mode=paper Cycle 8: loaded=1000 ranked=8 active=2 fills=0 fills_1m=0 pnl=0.0000 equity=10000.00 dd=0.00% exp_daily_rewards=1050.00
+2026-04-10 19:18:32,132 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:32,133 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:32,397 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:32,397 INFO [DRY-RUN] fill 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b sell 1f1ff299-26c2-4c20-97a3-a2d0e9ec2c8f
+2026-04-10 19:18:32,398 INFO Mode=paper Cycle 9: loaded=1000 ranked=8 active=2 fills=1 fills_1m=1 pnl=-0.2269 equity=9999.77 dd=0.00% exp_daily_rewards=1200.00
+2026-04-10 19:18:32,398 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:32,398 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 7114490f-7df9-4b93-9447-47fb1301d481
+2026-04-10 19:18:32,398 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 f836d958-3219-473b-b31d-c9509e97d456
+2026-04-10 19:18:32,398 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 buy price=0.2644 size=200.0000
+2026-04-10 19:18:32,398 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 sell price=0.2656 size=200.0000
+2026-04-10 19:18:32,399 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:32,650 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:32,651 INFO [DRY-RUN] fill 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 sell 9387e85c-9767-4bd9-9532-70a279f78fa2
+2026-04-10 19:18:32,651 INFO Mode=paper Cycle 10: loaded=1000 ranked=8 active=2 fills=1 fills_1m=2 pnl=-1.3712 equity=9998.63 dd=0.01% exp_daily_rewards=350.00
+2026-04-10 19:18:32,651 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:32,651 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:32,940 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:32,940 INFO Mode=paper Cycle 11: loaded=1000 ranked=8 active=2 fills=0 fills_1m=2 pnl=-1.3712 equity=9998.63 dd=0.01% exp_daily_rewards=250.00
+2026-04-10 19:18:32,940 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:32,940 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:32,941 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 d8ced1e3-1e49-4783-892f-fac4e44acc6d
+2026-04-10 19:18:32,941 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 c7ba4a43-736e-4104-a30d-10866d4e8cef
+2026-04-10 19:18:32,941 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 buy price=0.6244 size=100.0000
+2026-04-10 19:18:32,941 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 sell price=0.6256 size=100.0000
+2026-04-10 19:18:33,218 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:33,219 INFO [DRY-RUN] fill 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 buy f82f1527-7c90-4730-9616-da4aaa2f4290
+2026-04-10 19:18:33,219 INFO Mode=paper Cycle 12: loaded=1000 ranked=8 active=2 fills=1 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=200.00
+2026-04-10 19:18:33,219 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:33,220 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,221 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf b592625f-a86c-4849-a2a0-b272c43c4126
+2026-04-10 19:18:33,222 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf 8fa77e11-645a-4535-bbbe-439d4087dee4
+2026-04-10 19:18:33,222 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf buy price=0.6543 size=200.0000
+2026-04-10 19:18:33,222 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf sell price=0.6557 size=200.0000
+2026-04-10 19:18:33,480 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:33,480 INFO Mode=paper Cycle 13: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=200.00
+2026-04-10 19:18:33,481 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,481 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,481 INFO [DRY-RUN] cancel 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 989d2351-5f15-4f33-be1c-483a4ea5c32a
+2026-04-10 19:18:33,481 INFO [DRY-RUN] cancel 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 4e6ba6a0-2941-4c67-8cc2-dcee1b8b8fe0
+2026-04-10 19:18:33,481 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 buy price=0.3961 size=200.0000
+2026-04-10 19:18:33,481 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 sell price=0.3969 size=200.0000
+2026-04-10 19:18:33,731 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:33,732 INFO Mode=paper Cycle 14: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=170.00
+2026-04-10 19:18:33,732 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,732 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,732 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 90258ef4-eda7-4ccd-882d-b81a642af2c7
+2026-04-10 19:18:33,732 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 377065fa-29d0-4a3c-a39a-cd7f3e758acb
+2026-04-10 19:18:33,733 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d buy price=0.2113 size=200.0000
+2026-04-10 19:18:33,733 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d sell price=0.2127 size=200.0000
+2026-04-10 19:18:33,982 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:33,982 INFO Mode=paper Cycle 15: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=120.00
+2026-04-10 19:18:33,982 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,982 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:33,982 INFO [DRY-RUN] cancel 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 589fbb2f-1a4c-4264-ab17-9176a3daf526
+2026-04-10 19:18:33,982 INFO [DRY-RUN] cancel 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 abdef146-06b3-48aa-abb0-58ffa29e4d1d
+2026-04-10 19:18:33,983 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 buy price=0.1612 size=200.0000
+2026-04-10 19:18:33,983 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 sell price=0.1628 size=200.0000
+2026-04-10 19:18:34,250 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:34,250 INFO Mode=paper Cycle 16: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=1050.00
+2026-04-10 19:18:34,251 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:34,251 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:34,517 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:34,517 INFO Mode=paper Cycle 17: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=1200.00
+2026-04-10 19:18:34,517 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:34,518 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 99ba5066-63bc-45d0-b9cb-31f45ab8fe8e
+2026-04-10 19:18:34,518 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 6d9747ac-d2ed-44ae-b5a9-7b35308b3404
+2026-04-10 19:18:34,518 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 buy price=0.2644 size=200.0000
+2026-04-10 19:18:34,518 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 sell price=0.2656 size=200.0000
+2026-04-10 19:18:34,518 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:34,518 INFO [DRY-RUN] cancel 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b 433e49fa-87a4-44d3-a65d-3322fced3ebd
+2026-04-10 19:18:34,518 INFO [DRY-RUN] place 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b buy price=0.1843 size=200.0000
+2026-04-10 19:18:34,774 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:34,774 INFO Mode=paper Cycle 18: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=350.00
+2026-04-10 19:18:34,775 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:34,775 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:35,054 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:35,054 INFO Mode=paper Cycle 19: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=250.00
+2026-04-10 19:18:35,054 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:35,055 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:35,055 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 0032c6f8-5611-417b-9c9b-042edcf6d70a
+2026-04-10 19:18:35,055 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 59afa61c-99fc-4bc3-9308-73c4e2ad4a3a
+2026-04-10 19:18:35,055 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 buy price=0.6244 size=100.0000
+2026-04-10 19:18:35,055 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 sell price=0.6256 size=100.0000
+2026-04-10 19:18:35,316 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:35,316 INFO Mode=paper Cycle 20: loaded=1000 ranked=8 active=2 fills=0 fills_1m=3 pnl=-2.5129 equity=9997.49 dd=0.03% exp_daily_rewards=200.00
+2026-04-10 19:18:35,316 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:35,316 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:35,316 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf e39f41d6-1cff-44f2-93a2-180914d9d23b
+2026-04-10 19:18:35,317 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf cdd85986-3ffe-4e79-be3f-784c1204ff7d
+2026-04-10 19:18:35,317 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf buy price=0.6543 size=200.0000
+2026-04-10 19:18:35,317 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf sell price=0.6557 size=200.0000
+2026-04-10 19:18:35,581 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:35,581 INFO [DRY-RUN] fill 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 sell 698fd356-098d-457e-b82d-b68eec66513c
+2026-04-10 19:18:35,581 INFO Mode=paper Cycle 21: loaded=1000 ranked=8 active=2 fills=1 fills_1m=4 pnl=-3.2257 equity=9996.77 dd=0.03% exp_daily_rewards=200.00
+2026-04-10 19:18:35,581 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:35,581 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:35,846 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:35,847 INFO Mode=paper Cycle 22: loaded=1000 ranked=8 active=2 fills=0 fills_1m=4 pnl=-3.2257 equity=9996.77 dd=0.03% exp_daily_rewards=170.00
+2026-04-10 19:18:35,847 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:35,847 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:35,847 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 88d4ce18-9e3f-423f-a3f9-9e82ed07cefe
+2026-04-10 19:18:35,847 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d a6ff292e-24ba-44d3-bd6e-48b1403b0af4
+2026-04-10 19:18:35,847 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d buy price=0.2113 size=200.0000
+2026-04-10 19:18:35,848 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d sell price=0.2127 size=200.0000
+2026-04-10 19:18:36,092 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:36,092 INFO [DRY-RUN] fill 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 sell 993f9e34-ea3d-45ef-8bbb-81b914306e8f
+2026-04-10 19:18:36,092 INFO Mode=paper Cycle 23: loaded=1000 ranked=8 active=2 fills=1 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=120.00
+2026-04-10 19:18:36,092 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:36,093 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:36,356 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:36,356 INFO Mode=paper Cycle 24: loaded=1000 ranked=8 active=2 fills=0 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=1050.00
+2026-04-10 19:18:36,357 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:36,357 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:36,613 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:36,613 INFO Mode=paper Cycle 25: loaded=1000 ranked=8 active=2 fills=0 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=1200.00
+2026-04-10 19:18:36,614 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:36,614 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 fb4b55cb-2560-4067-b078-4fb96a2ab2f1
+2026-04-10 19:18:36,614 INFO [DRY-RUN] cancel 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 36439ec3-b910-476c-ad7b-618fa561a723
+2026-04-10 19:18:36,614 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 buy price=0.2644 size=200.0000
+2026-04-10 19:18:36,614 INFO [DRY-RUN] place 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 sell price=0.2656 size=200.0000
+2026-04-10 19:18:36,614 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:36,614 INFO [DRY-RUN] cancel 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b 013dd9c5-fb19-4030-8345-e3ad005ee1aa
+2026-04-10 19:18:36,614 INFO [DRY-RUN] place 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b buy price=0.1843 size=200.0000
+2026-04-10 19:18:36,878 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:36,879 INFO Mode=paper Cycle 26: loaded=1000 ranked=8 active=2 fills=0 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=350.00
+2026-04-10 19:18:36,879 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:36,879 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:36,879 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 buy price=0.6344 size=200.0000
+2026-04-10 19:18:36,879 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 sell price=0.6356 size=200.0000
+2026-04-10 19:18:37,140 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:37,140 INFO Mode=paper Cycle 27: loaded=1000 ranked=8 active=2 fills=0 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=250.00
+2026-04-10 19:18:37,140 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,141 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:37,141 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 35fd23cc-8f56-4217-a5ef-a159d5a7ddca
+2026-04-10 19:18:37,141 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 4e5531f8-e3cf-4c27-b2ec-843639ac8274
+2026-04-10 19:18:37,141 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 buy price=0.6244 size=100.0000
+2026-04-10 19:18:37,141 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 sell price=0.6256 size=100.0000
+2026-04-10 19:18:37,410 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:37,410 INFO Mode=paper Cycle 28: loaded=1000 ranked=8 active=2 fills=0 fills_1m=5 pnl=-3.3998 equity=9996.60 dd=0.03% exp_daily_rewards=200.00
+2026-04-10 19:18:37,410 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:37,410 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,411 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf 81554770-7db0-4037-b59c-3b3517e6e642
+2026-04-10 19:18:37,411 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf 43edc257-e625-41cb-9626-6365e8774d4e
+2026-04-10 19:18:37,411 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf buy price=0.6543 size=200.0000
+2026-04-10 19:18:37,411 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf sell price=0.6557 size=200.0000
+2026-04-10 19:18:37,681 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:37,681 INFO [DRY-RUN] fill 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 buy 18fcec52-5430-4585-abf4-388eeca49710
+2026-04-10 19:18:37,681 INFO Mode=paper Cycle 29: loaded=1000 ranked=8 active=2 fills=1 fills_1m=6 pnl=-4.1110 equity=9995.89 dd=0.04% exp_daily_rewards=200.00
+2026-04-10 19:18:37,681 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,681 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,955 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:37,955 INFO Mode=paper Cycle 30: loaded=1000 ranked=8 active=2 fills=0 fills_1m=6 pnl=-4.1110 equity=9995.89 dd=0.04% exp_daily_rewards=170.00
+2026-04-10 19:18:37,955 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,956 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:37,956 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 66d9c7cb-8f4c-43cd-aa3f-55778c4f991b
+2026-04-10 19:18:37,956 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 19eaf882-fd61-4d46-8802-fba092bd91e0
+2026-04-10 19:18:37,957 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d buy price=0.2113 size=200.0000
+2026-04-10 19:18:37,957 INFO [DRY-RUN] place 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d sell price=0.2127 size=200.0000
+2026-04-10 19:18:38,224 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:38,225 INFO Mode=paper Cycle 31: loaded=1000 ranked=8 active=2 fills=0 fills_1m=6 pnl=-4.1110 equity=9995.89 dd=0.04% exp_daily_rewards=120.00
+2026-04-10 19:18:38,225 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:38,225 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:38,226 INFO [DRY-RUN] cancel 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 7643e7b2-bae3-428b-b8ee-bf4a4eb009f0
+2026-04-10 19:18:38,226 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 buy price=0.1612 size=200.0000
+2026-04-10 19:18:38,506 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:38,506 INFO Mode=paper Cycle 32: loaded=1000 ranked=8 active=2 fills=0 fills_1m=6 pnl=-4.1110 equity=9995.89 dd=0.04% exp_daily_rewards=1050.00
+2026-04-10 19:18:38,506 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:38,507 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:38,787 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:38,787 INFO [DRY-RUN] fill 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 buy d26773b6-67d0-4bc5-8be0-4e4ec4c2a389
+2026-04-10 19:18:38,787 INFO Mode=paper Cycle 33: loaded=1000 ranked=8 active=2 fills=1 fills_1m=7 pnl=-4.5193 equity=9995.48 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:38,788 INFO Market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846) mid=0.2650 spread_bps=30.00 reward_score=1000.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:38,788 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:38,788 INFO [DRY-RUN] cancel 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b 6ec8efac-7bce-49e2-abe7-2f63b9e3991b
+2026-04-10 19:18:38,789 INFO [DRY-RUN] place 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b buy price=0.1843 size=200.0000
+2026-04-10 19:18:39,031 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:39,031 INFO Mode=paper Cycle 34: loaded=1000 ranked=8 active=2 fills=0 fills_1m=7 pnl=-4.5193 equity=9995.48 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:39,031 INFO Market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b) mid=0.1850 spread_bps=30.00 reward_score=200.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:39,032 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:39,032 INFO [DRY-RUN] cancel 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 b7c46c3b-2944-4979-a895-b79db955dbcb
+2026-04-10 19:18:39,032 INFO [DRY-RUN] cancel 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 e97cf5a6-7ba8-4bdd-a9e6-839967a15130
+2026-04-10 19:18:39,032 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 buy price=0.6344 size=200.0000
+2026-04-10 19:18:39,032 INFO [DRY-RUN] place 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 sell price=0.6356 size=200.0000
+2026-04-10 19:18:39,293 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:39,294 INFO Mode=paper Cycle 35: loaded=1000 ranked=8 active=2 fills=0 fills_1m=7 pnl=-4.5193 equity=9995.48 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:39,294 INFO Market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14) mid=0.6350 spread_bps=30.00 reward_score=150.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:39,294 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:39,294 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 7c37bdf7-47ec-4184-b307-af38ad7c2979
+2026-04-10 19:18:39,294 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 4ee6314e-4aad-41df-bf9b-d51cf7bedee6
+2026-04-10 19:18:39,294 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 buy price=0.6244 size=100.0000
+2026-04-10 19:18:39,295 INFO [DRY-RUN] place 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 sell price=0.6256 size=100.0000
+2026-04-10 19:18:39,563 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:39,563 INFO Mode=paper Cycle 36: loaded=1000 ranked=8 active=2 fills=0 fills_1m=7 pnl=-4.5193 equity=9995.48 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:39,563 INFO Market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64) mid=0.6250 spread_bps=30.00 reward_score=100.0000 rewards_min_size=100.00 target_size=100.00 active_sides=2
+2026-04-10 19:18:39,563 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:39,563 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf 25f064a9-6fda-4e07-8830-1547e29bbdd2
+2026-04-10 19:18:39,563 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf f5ac517c-5e17-4265-9fbf-f4bd22dc93ef
+2026-04-10 19:18:39,564 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf buy price=0.6543 size=200.0000
+2026-04-10 19:18:39,564 INFO [DRY-RUN] place 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf sell price=0.6557 size=200.0000
+2026-04-10 19:18:39,833 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:39,834 INFO Mode=paper Cycle 37: loaded=1000 ranked=8 active=2 fills=0 fills_1m=7 pnl=-4.5193 equity=9995.48 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:39,834 INFO Market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf) mid=0.6550 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:39,834 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:39,834 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 buy price=0.3961 size=200.0000
+2026-04-10 19:18:39,834 INFO [DRY-RUN] place 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 sell price=0.3969 size=200.0000
+2026-04-10 19:18:40,084 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:40,084 INFO [DRY-RUN] fill 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d buy 1749b664-f2f7-4509-bc26-977b7fa0562f
+2026-04-10 19:18:40,084 INFO Mode=paper Cycle 38: loaded=1000 ranked=8 active=2 fills=1 fills_1m=8 pnl=-4.8055 equity=9995.19 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:40,084 INFO Market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919) mid=0.3965 spread_bps=30.00 reward_score=100.0000 rewards_min_size=200.00 target_size=200.00 active_sides=2
+2026-04-10 19:18:40,084 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:40,348 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:40,348 INFO Mode=paper Cycle 39: loaded=1000 ranked=8 active=2 fills=0 fills_1m=8 pnl=-4.8055 equity=9995.19 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:40,348 INFO Market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d) mid=0.2120 spread_bps=30.00 reward_score=70.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:40,348 INFO Market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57) mid=0.1620 spread_bps=30.00 reward_score=50.0000 rewards_min_size=200.00 target_size=200.00 active_sides=1
+2026-04-10 19:18:40,348 INFO [DRY-RUN] cancel 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 9edc6eab-43dd-4ecd-89bd-36f2853180b7
+2026-04-10 19:18:40,349 INFO [DRY-RUN] place 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 buy price=0.1612 size=200.0000
+2026-04-10 19:18:40,647 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:40,647 INFO [DRY-RUN] fill 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 sell fa244c8f-edab-4f24-9335-a4b9611ddb41
+2026-04-10 19:18:40,647 INFO Mode=paper Cycle 40: loaded=1000 ranked=8 active=2 fills=1 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:40,648 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:40,648 INFO [DRY-RUN] cancel 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 b15cd727-55b8-4e98-b5bb-9db1f9a82e6c
+2026-04-10 19:18:40,648 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:40,911 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:40,911 INFO Mode=paper Cycle 41: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:40,912 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:40,912 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:40,912 INFO [DRY-RUN] cancel 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b 8443e12d-51c3-4e56-a7d1-44c036420bdb
+2026-04-10 19:18:41,191 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:41,191 INFO Mode=paper Cycle 42: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:41,192 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:41,192 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:41,192 INFO [DRY-RUN] cancel 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 a6c7fb82-61a5-4ddb-8740-d894f0774fbd
+2026-04-10 19:18:41,192 INFO [DRY-RUN] cancel 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 0a57bf00-3ce1-4908-8917-3b019111a312
+2026-04-10 19:18:41,459 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:41,459 INFO Mode=paper Cycle 43: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:41,459 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:41,459 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:41,460 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 59a1d285-1a26-4f05-8583-8f8a955f906c
+2026-04-10 19:18:41,460 INFO [DRY-RUN] cancel 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 8c4615f1-2374-46a3-b2db-bd1c855183aa
+2026-04-10 19:18:41,711 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:41,712 INFO Mode=paper Cycle 44: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:41,712 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:41,712 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:41,712 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf b7aa3deb-bf42-431f-bd07-d8148a0785ee
+2026-04-10 19:18:41,712 INFO [DRY-RUN] cancel 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf 87b4e5a7-b812-4340-97dc-d19a265f7954
+2026-04-10 19:18:41,986 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:41,986 INFO Mode=paper Cycle 45: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:41,987 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:41,987 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:41,987 INFO [DRY-RUN] cancel 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 56297344-4ed5-4c31-9ddf-c0bf1acbee35
+2026-04-10 19:18:41,987 INFO [DRY-RUN] cancel 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 c9ec30f5-e9d8-4e8c-8c0d-3bf37aba1dd4
+2026-04-10 19:18:42,248 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:42,248 INFO Mode=paper Cycle 46: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:42,249 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:42,249 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:42,249 INFO [DRY-RUN] cancel 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d 39eca7e6-a0c7-4ae9-9d8a-f7d5e8aac3b0
+2026-04-10 19:18:42,524 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:42,524 INFO Mode=paper Cycle 47: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:42,525 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:42,525 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:42,779 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:42,780 INFO Mode=paper Cycle 48: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:42,780 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:42,780 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:43,031 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:43,032 INFO Mode=paper Cycle 49: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:43,032 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:43,032 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:43,284 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:43,285 INFO Mode=paper Cycle 50: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:43,285 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:43,286 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:43,526 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:43,526 INFO Mode=paper Cycle 51: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:43,526 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:43,526 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:43,791 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:43,791 INFO Mode=paper Cycle 52: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:43,791 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:43,791 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:44,044 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:44,044 INFO Mode=paper Cycle 53: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:44,045 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:44,045 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:44,297 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:44,297 INFO Mode=paper Cycle 54: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:44,297 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:44,297 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:44,548 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:44,548 INFO Mode=paper Cycle 55: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:44,548 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:44,548 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:44,778 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:44,778 INFO Mode=paper Cycle 56: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:44,778 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:44,778 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:45,028 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:45,028 INFO Mode=paper Cycle 57: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:45,028 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:45,028 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:45,305 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:45,305 INFO Mode=paper Cycle 58: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:45,305 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:45,305 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:45,640 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:45,640 INFO Mode=paper Cycle 59: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:45,640 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:45,641 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:45,948 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:45,949 INFO Mode=paper Cycle 60: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:45,949 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:45,950 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:46,225 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:46,225 INFO Mode=paper Cycle 61: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:46,225 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:46,225 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:46,487 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:46,487 INFO Mode=paper Cycle 62: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:46,488 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:46,488 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:46,746 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:46,747 INFO Mode=paper Cycle 63: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:46,747 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:46,747 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:46,990 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:46,991 INFO Mode=paper Cycle 64: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:46,991 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:46,991 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:47,249 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:47,249 INFO Mode=paper Cycle 65: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:47,250 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:47,250 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:47,515 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:47,515 INFO Mode=paper Cycle 66: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:47,515 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:47,515 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:47,805 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:47,806 INFO Mode=paper Cycle 67: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:47,806 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:47,806 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:48,060 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:48,060 INFO Mode=paper Cycle 68: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:48,060 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:48,061 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:48,341 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:48,341 INFO Mode=paper Cycle 69: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:48,342 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:48,342 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:48,611 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:48,611 INFO Mode=paper Cycle 70: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:48,611 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:48,612 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:48,893 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:48,893 INFO Mode=paper Cycle 71: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:48,894 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:48,894 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:49,155 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:49,155 INFO Mode=paper Cycle 72: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:49,156 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:49,156 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:49,403 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:49,403 INFO Mode=paper Cycle 73: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:49,403 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:49,404 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:49,663 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:49,663 INFO Mode=paper Cycle 74: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:49,663 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:49,663 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:49,907 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:49,908 INFO Mode=paper Cycle 75: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:49,908 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:49,908 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:50,166 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:50,166 INFO Mode=paper Cycle 76: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:50,167 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:50,167 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:50,448 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:50,448 INFO Mode=paper Cycle 77: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:50,449 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:50,449 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:50,713 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:50,713 INFO Mode=paper Cycle 78: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:50,714 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:50,716 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:51,010 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:51,010 INFO Mode=paper Cycle 79: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:51,010 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:51,010 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:51,358 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:51,362 INFO Mode=paper Cycle 80: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:51,363 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:51,363 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:51,626 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:51,626 INFO Mode=paper Cycle 81: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:51,626 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:51,627 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:51,889 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:51,889 INFO Mode=paper Cycle 82: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:51,889 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:51,889 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:52,138 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:52,138 INFO Mode=paper Cycle 83: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:52,139 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:52,139 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:52,402 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:52,402 INFO Mode=paper Cycle 84: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:52,403 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:52,403 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:52,632 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:52,632 INFO Mode=paper Cycle 85: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:52,632 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:52,632 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:52,867 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:52,867 INFO Mode=paper Cycle 86: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:52,867 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:52,868 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:53,109 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:53,109 INFO Mode=paper Cycle 87: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:53,109 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:53,109 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:53,349 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:53,349 INFO Mode=paper Cycle 88: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:53,349 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:53,349 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:53,603 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:53,603 INFO Mode=paper Cycle 89: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:53,603 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:53,604 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:53,831 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:53,831 INFO Mode=paper Cycle 90: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:53,832 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:53,832 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:54,089 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:54,089 INFO Mode=paper Cycle 91: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:54,089 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:54,089 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:54,325 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:54,325 INFO Mode=paper Cycle 92: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:54,326 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:54,326 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:54,567 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:54,567 INFO Mode=paper Cycle 93: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:54,567 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:54,567 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:54,796 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:54,797 INFO Mode=paper Cycle 94: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:54,797 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:54,797 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:55,028 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:55,029 INFO Mode=paper Cycle 95: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:55,029 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:55,029 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:55,254 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:55,254 INFO Mode=paper Cycle 96: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:55,254 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:55,254 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:55,497 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:55,497 INFO Mode=paper Cycle 97: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:55,498 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:55,498 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:55,752 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:55,752 INFO Mode=paper Cycle 98: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:55,752 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:55,752 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:55,993 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:55,993 INFO Mode=paper Cycle 99: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:55,993 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:55,993 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:56,238 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:56,238 INFO Mode=paper Cycle 100: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:56,239 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:56,239 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:56,474 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:56,475 INFO Mode=paper Cycle 101: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:56,475 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:56,475 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:56,727 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:56,727 INFO Mode=paper Cycle 102: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:56,727 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:56,727 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:56,966 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:56,966 INFO Mode=paper Cycle 103: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:56,966 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:56,967 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:57,203 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:57,203 INFO Mode=paper Cycle 104: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:57,203 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:57,203 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:57,434 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:57,434 INFO Mode=paper Cycle 105: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:57,434 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:57,435 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:57,665 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:57,665 INFO Mode=paper Cycle 106: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:57,665 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:57,665 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:57,920 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:57,921 INFO Mode=paper Cycle 107: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:18:57,921 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:18:57,921 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:58,174 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:58,174 INFO Mode=paper Cycle 108: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:58,174 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:18:58,174 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:58,472 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:58,472 INFO Mode=paper Cycle 109: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:18:58,472 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:18:58,472 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:58,771 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:58,771 INFO Mode=paper Cycle 110: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:18:58,771 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:18:58,772 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:59,060 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:59,060 INFO Mode=paper Cycle 111: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:18:59,060 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:18:59,060 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:59,318 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:59,318 INFO Mode=paper Cycle 112: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:18:59,318 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:18:59,318 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:59,584 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:59,584 INFO Mode=paper Cycle 113: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1200.00
+2026-04-10 19:18:59,585 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:18:59,585 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:59,844 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:18:59,845 INFO Mode=paper Cycle 114: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=350.00
+2026-04-10 19:18:59,845 INFO Inventory blocked market 0xbb4d51e6364066d92eb6f9b8413dd7193de70966736044463b205834805a1f3b (yes=0.00 no=200.00)
+2026-04-10 19:18:59,845 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:19:00,083 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:00,083 INFO Mode=paper Cycle 115: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=250.00
+2026-04-10 19:19:00,083 INFO Inventory blocked market 0x1480b819d03d4b6388d70e848b0384adf38c38d955cb783cdbcf6d4a436dee14 (yes=200.00 no=200.00)
+2026-04-10 19:19:00,084 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:19:00,354 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:00,354 INFO Mode=paper Cycle 116: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:19:00,354 INFO Inventory blocked market 0x4f0f481c30d93d0c7c5ffb8a9b69d9690a4da240b0069562af20e08b6ef8dd64 (yes=0.00 no=0.00)
+2026-04-10 19:19:00,354 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:19:00,610 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:00,610 INFO Mode=paper Cycle 117: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=200.00
+2026-04-10 19:19:00,610 INFO Inventory blocked market 0xde2be5c360bafeb33cc43bd0a49368ed89371daca90e1cc6da8bf7f93d5bbadf (yes=0.00 no=0.00)
+2026-04-10 19:19:00,611 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:19:00,847 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:00,848 INFO Mode=paper Cycle 118: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=170.00
+2026-04-10 19:19:00,848 INFO Inventory blocked market 0x18b1c135d0a40c5894da9412e77311827d9caf16cf4cd6591b247a34730af919 (yes=200.00 no=200.00)
+2026-04-10 19:19:00,848 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:19:01,096 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:01,096 INFO Mode=paper Cycle 119: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=120.00
+2026-04-10 19:19:01,097 INFO Inventory blocked market 0x21ad31a46bfaa51650766eff6dc69c866959e32d965ffb116020e37694b6317d (yes=200.00 no=0.00)
+2026-04-10 19:19:01,097 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:19:01,361 INFO Rewards capture prefilter: kept=554/1000 capital_per_market=n/a
+2026-04-10 19:19:01,361 INFO Mode=paper Cycle 120: loaded=1000 ranked=8 active=2 fills=0 fills_1m=9 pnl=-5.2162 equity=9994.78 dd=0.05% exp_daily_rewards=1050.00
+2026-04-10 19:19:01,361 INFO Inventory blocked market 0x4567b275e6b667a6217f5cb4f06a797d3a1eaf1d0281fb5bc8c75e2046ae7e57 (yes=0.00 no=200.00)
+2026-04-10 19:19:01,361 INFO Inventory blocked market 0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846 (yes=200.00 no=200.00)
+2026-04-10 19:19:01,361 INFO Run completed. Mode=paper Active orders=0 Realized PnL=-5.2162 Equity=9994.78
